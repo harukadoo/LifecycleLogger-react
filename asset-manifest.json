@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LifecycleLogger-react/static/css/main.3af810e9.css",
+    "main.js": "/LifecycleLogger-react/static/js/main.fbc786f1.js",
+    "index.html": "/LifecycleLogger-react/index.html",
+    "main.3af810e9.css.map": "/LifecycleLogger-react/static/css/main.3af810e9.css.map",
+    "main.fbc786f1.js.map": "/LifecycleLogger-react/static/js/main.fbc786f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3af810e9.css",
+    "static/js/main.fbc786f1.js"
+  ]
+}
